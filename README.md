@@ -1,6 +1,6 @@
-# flutterwithjava
+# FlutterWithJava
 
-A new Flutter project.
+First tries with Flutter and Java
 
 ## Getting Started
 
